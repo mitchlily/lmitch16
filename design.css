@@ -1,0 +1,13 @@
+body { 
+    background: #C4F3FF;
+}
+h1 { 
+    color:blue;
+    text-shadow: 1px 1px #ffff;
+}
+.about { 
+    color:darkblue;
+}
+.music { 
+    color:darkviolet;
+}
